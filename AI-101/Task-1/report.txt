@@ -1,0 +1,20 @@
+LEARNING REPORT: AI PROMPTING LAB
+
+Name: Asad Ali Qureshi
+Program: Panaversity 2026
+
+The AI Prompting Lab helped me understand that using artificial intelligence effectively is not only about asking questions. The quality of an AI response mainly depends on the context, instructions, limitations, and expected output included in the prompt. My most important learning is to provide the right context and keep irrelevant or incorrect context out.
+
+I learned the difference between a beginner prompt and a power-user prompt. A general question usually produces a general answer, while a prompt containing the purpose, audience, budget, time, tone, and required format produces a more useful and personalized result. I also learned that a confident AI response is not always correct. For recent, local, private, legal, or changing information, I should ask the AI to search current sources, provide citations, or clearly admit uncertainty instead of guessing.
+
+The lab explained three ways AI retrieves information: using pretrained knowledge, performing a web search, and conducting deeper research. I learned that my wording can guide the AI toward the correct method. Terms such as “latest,” “current,” and “cite sources” encourage fresh research, while stable general topics can be answered from existing knowledge.
+
+Another important lesson was how to communicate with AI like a colleague. I should clearly describe the task, provide essential facts and constraints, explain who the result is for, and specify the required output. For complex decisions involving several trade-offs, I can ask the AI to think carefully and return a structured analysis. However, this deeper reasoning is unnecessary for simple questions.
+
+I also learned to avoid leading prompts that push AI to agree with my opinion. Instead of asking it to prove or confirm an idea, I should ask it to compare alternatives, evaluate both sides, and identify advantages and disadvantages. The brainstorm-and-iterate process showed me that the first answer should not always be accepted. A better workflow is to request several options, give feedback, refine the strongest option, and repeat until the result meets the requirement.
+
+The lab introduced practical uses beyond normal text conversations. AI can read images, transcribe notes, summarize whiteboards, create image prompts, build small applications, and analyze data. For calculations and spreadsheets, I should specifically ask it to write and run code and show the code used, because an answer without verification may contain silent errors.
+
+Finally, I learned the importance of safety and model selection. Before allowing an AI desktop application to modify files, I should ask for a plan, review it, limit permissions, and approve actions carefully. Different AI models have different strengths and weaknesses, so comparing their outputs or asking one model to review another can improve accuracy.
+
+Overall, this lab changed my understanding of prompting. Effective prompting is a process of clear briefing, verification, iteration, safe tool use, and critical thinking. AI becomes more valuable when I guide it properly and remain responsible for checking its results.
