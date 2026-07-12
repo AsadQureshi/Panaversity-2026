@@ -1,0 +1,11 @@
+category,item,earned,possible
+Assignments,A1,85,100
+Assignments,A2,90,100
+Assignments,A3,70,100
+Assignments,A4,95,100
+Quizzes,Q1,8,10
+Quizzes,Q2,7,10
+Quizzes,Q3,10,10
+Quizzes,Q4,6,10
+Midterm,Midterm,78,100
+Final Exam,Final Exam,,
