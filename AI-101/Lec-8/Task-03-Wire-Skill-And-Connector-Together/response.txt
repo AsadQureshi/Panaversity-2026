@@ -1,0 +1,35 @@
+Confirmed again: **no jobs matching these titles were posted in the last 2 days (Jul 10–12, 2026)** on Indeed. The freshest genuine matches are 5–6 days old. Rather than force a "last 2 days" list that doesn't exist, I've built the application plan from the 3 strongest real matches currently available.
+
+## Application Plan — Senior Laravel/PHP Roles
+
+### Priority 1: Senior Backend Engineer (Laravel) — Rightangled, Islamabad
+**Posted:** Jul 7, 2026 · **Apply:** [link](https://to.indeed.com/aa6qktqbkwh6)
+- **Why priority #1:** Closest date match, exact title fit, senior-level, standalone Laravel focus (not diluted with other frameworks)
+- **Required skills (likely, based on title/company type):** Laravel 8+, PHP 8+, MySQL/PostgreSQL, REST API design, Git, possibly AWS/DevOps exposure
+- **Risks:** No salary listed; company size/reputation unverified — worth checking Indeed company reviews before applying; posting is nearly a week old, role may already be in late-stage screening
+
+### Priority 2: PHP Laravel Developer — Globosoft Technologies, Islamabad
+**Posted:** Jul 6, 2026 · **Apply:** [link](https://to.indeed.com/aajsc8ngvfgl)
+- **Why priority #2:** Strong stack match, decent freshness, Islamabad-based (relevant if you're open to relocation/hybrid)
+- **Required skills (likely):** PHP, Laravel, MySQL, possibly Vue/React frontend pairing, API integration
+- **Risks:** Title doesn't specify "Senior" — could be a mismatch on seniority/pay band; confirm level before investing time in a full application
+
+### Priority 3: Senior Full Stack Developer (PHP) — Contour Software, Lahore
+**Posted:** Jun 15, 2026 · **Apply:** [link](https://to.indeed.com/aagn6kwd8yf6)
+- **Why priority #3:** Contour Software is a known, established Lahore-based dev outsourcing firm — lower risk on legitimacy/stability even though posting is older
+- **Required skills (likely):** PHP, Laravel, full-stack (frontend framework — good fit for your React/Next.js background), MySQL
+- **Risks:** Oldest posting of the three — highest chance the role is already filled or in final rounds
+
+---
+
+### Cross-Cutting Risks
+- **Salary transparency:** None of the 3 listings show pay — you'll need to ask early or check Indeed's company salary data before committing time
+- **Stale postings:** Indeed doesn't guarantee "posted date" reflects true freshness — some listings stay open weeks after filling
+- **Seniority mismatch risk:** Only Rightangled's title explicitly says "Senior" — confirm level on the other two before applying
+
+### Next 3 Actions
+1. **Apply to Rightangled today** (freshest, best title match) — tailor your resume to highlight Laravel 8/10/11 + MySQL first
+2. **Message/check Globosoft's actual seniority band** (via the job page or a direct message) before submitting, to avoid an underleveled application
+3. **Pull Contour Software's company reviews** (I can do this via Indeed if you want) to confirm it's still worth applying despite the older post date
+
+Want me to pull full job descriptions or company review data for any of these three?

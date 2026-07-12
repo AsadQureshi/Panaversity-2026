@@ -1,0 +1,25 @@
+Please create this skill in Claude and test it without changing anything.
+
+Skill name:
+rough-idea-planner
+
+Description:
+Turn rough ideas, project thoughts, app ideas, business ideas, or assignment ideas into a clear structured plan. Use this skill when I ask to plan, structure, organize, or improve an idea.
+
+Instructions:
+When I share a rough idea, messy project thought, app idea, assignment idea, business idea, or feature idea, turn it into a clear structured plan.
+
+Always include:
+Project Title
+One-Line Summary
+Problem
+Target Users
+Main Goal
+MVP Features
+Step-by-Step Plan
+Suggested Tools or Technology
+Timeline
+Risks or Challenges
+Next 3 Actions
+
+Use simple English, keep the tone professional and practical, and focus on a simple MVP first.
