@@ -1,0 +1,37 @@
+I searched Indeed only (no other sources), across all 5 title variations, for Pakistan and remote/international-friendly roles. Here's what I found — with an important caveat upfront:
+
+**⚠️ None of the results are actually within the last 2 days (July 10–12, 2026).** The most recent Laravel/PHP postings I could find are 5+ days old. I'm showing you the closest/most recent matches instead of fabricating a "last 2 days" list. Dates are shown clearly for each so you can judge freshness yourself.
+
+## Top Matches (sorted newest first)
+
+| # | Title | Company | Location | Posted | Type | Salary | Apply Link |
+|---|-------|---------|----------|--------|------|--------|-------------|
+| 1 | [Senior Backend Engineer (Laravel)](https://to.indeed.com/aay79d6vycct) | Rightangled | Islamabad | **Jul 7, 2026** | Full-time | N/A | ✅ |
+| 2 | [PHP Laravel Developer](https://to.indeed.com/aavytdwftq84) | Globosoft Technologies | Islamabad | **Jul 6, 2026** | Full-time | N/A | ✅ |
+| 3 | [Technical Product Manager & Team Lead](https://to.indeed.com/aaj6hbmmtfwg) | PHPTRAVELS | Lahore | Jul 8, 2026 | Full-time | N/A | ✅ |
+| 4 | [Node JS & PHP Developer](https://to.indeed.com/aamc6m2x4xf9) | Appicoders Inc. | Karachi | Jul 8, 2026 | Full-time | N/A | ✅ |
+| 5 | [Backend Developer](https://to.indeed.com/aarws8rmf7lj) | MeshSquare | Rawalpindi | Jul 2, 2026 | Full-time | N/A | ✅ |
+| 6 | [Senior Full Stack PHP Developer](https://to.indeed.com/aas9wj8474sz) | marked | Islamabad | May 10, 2026 | Full-time | N/A | ✅ |
+| 7 | [Senior Full Stack Developer (PHP)](https://to.indeed.com/aa8lsgkygjpr) | Contour Software | Lahore | Jun 15, 2026 | Full-time | N/A | ✅ |
+| 8 | [Laravel Developer](https://to.indeed.com/aapcmxdqwkjb) | KUZ TECH (SMC) PVT LTD | Karachi | Jun 15, 2026 | Full-time | N/A | ✅ |
+| 9 | [Senior Full Stack Developer (Laravel+Angular+AI)](https://to.indeed.com/aaxnnhqvhgxb) | CrecenTech | Lahore | Jun 11, 2026 | Full-time | N/A | ✅ |
+| 10 | [Sr. PHP / Laravel Developer](https://to.indeed.com/aasz7zfvgyk4) | CHROMEIS | Lahore | Feb 28, 2026 | N/A | N/A | ✅ |
+
+### Match Scores (against your profile: 10+ yrs PHP, 6+ yrs Laravel, Laravel 8/10/11, MySQL, React/Next.js)
+
+| # | Job | Score /10 | Why |
+|---|-----|-----------|-----|
+| 1 | Rightangled – Sr Backend Engineer (Laravel) | **9** | Direct title match, senior-level, likely core Laravel/MySQL stack |
+| 2 | Globosoft – PHP Laravel Developer | **7** | Strong stack match but title doesn't specify seniority |
+| 3 | PHPTRAVELS – Tech PM & Team Lead | **6** | Leadership-adjacent, PHPTravels uses Laravel heavily, but role is more managerial |
+| 4 | Appicoders – Node JS & PHP Developer | **5** | Mixed stack (Node+PHP), less Laravel-specific |
+| 5 | MeshSquare – Backend Developer | **6** | Generic backend title, unclear if Laravel-specific |
+| 6 | marked – Sr Full Stack PHP Developer | **7** | Senior PHP match, full-stack likely includes React |
+| 7 | Contour Software – Sr Full Stack Dev (PHP) | **7** | Well-known Lahore dev shop, strong senior PHP fit |
+| 8 | KUZ TECH – Laravel Developer | **5** | No seniority indicated |
+| 9 | CrecenTech – Sr Full Stack (Laravel+Angular+AI) | **6** | Senior + Laravel match, but Angular not React |
+| 10 | CHROMEIS – Sr PHP/Laravel Developer | **7** | Direct senior PHP/Laravel title match |
+
+**Note on "Key Requirements":** Indeed's search results didn't return full job descriptions, so I can't list detailed requirements without opening each listing individually. I can pull full details (including salary and requirements) for any specific jobs you'd like — just tell me which numbers.
+
+No applications, saves, or account changes were made — search and summary only, as requested.

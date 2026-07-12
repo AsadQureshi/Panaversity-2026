@@ -1,0 +1,25 @@
+Use my Indeed connector only. Find jobs posted in the last 2 days related to Senior Laravel Developer.
+
+Search for these related titles:
+- Senior Laravel Developer
+- Senior PHP Developer Laravel
+- Laravel Backend Developer
+- Lead Laravel Developer
+- PHP Laravel Engineer
+
+Location preference: Pakistan, Remote, or jobs open to international/remote candidates.
+
+Return the best 10 jobs only. For each job, show:
+1. Job title
+2. Company name
+3. Location / Remote status
+4. Posted date
+5. Job type
+6. Salary, if available
+7. Key requirements
+8. Apply link
+9. Match score out of 10 for my profile: 10+ years PHP, 6+ years Laravel, Laravel 8/10/11, MySQL, React/Next.js experience.
+
+Sort the results by newest first.
+
+Do not apply to any job, do not save anything, and do not modify my Indeed account. Only search, read, and summarize the results.
